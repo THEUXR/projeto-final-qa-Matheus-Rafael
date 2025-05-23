@@ -2,44 +2,68 @@
 
 📄 Estrutura do README.md (Obrigatória)
 1. Apresentação
-Nome completo
+Nome completo: MATHEUS RAFAEL DAMASCENO GOMES
 
 
-Curso e semestre
+GTI e 5NA
 
 
-Um parágrafo com uma breve descrição da sua experiência com a disciplina
+Foi bem dificil no inicio mas comecei a pegar o jeito
 
 
 2. O que é Quality Assurance (QA)?
-Explique com suas palavras o conceito de QA e sua importância no desenvolvimento de software
 
+é o processo de garantir que um produto ou serviço atenda a padrões de qualidade. No caso de software, por exemplo, envolve testar e revisar para evitar erros antes do lançamento. O objetivo é entregar algo funcional e confiável, prevenindo problemas antes que cheguem ao usuário.
 
-Use uma linguagem simples e acessível, como se estivesse explicando para alguém leigo
 
 
 3. Conceitos Aprendidos Durante o Semestre
 Escreva um parágrafo explicando o que você aprendeu sobre:
 Qualidade em software e cultura de qualidade
 
+Eu entendi que a qualidade em software significa garantir que ela seja confiável, eficiente e livre de falhas. A cultura de qualidade é quando toda a equipe, não só o time de QA, trabalha para prevenir problemas antes que aconteçam. Isso envolve testes contínuos, colaboração e foco na excelência desde o início do desenvolvimento.
+
 
 Tipos de testes (unitário, integração, sistema, aceitação, regressão e exploratório)
+
+- Teste Unitário: Verifica se partes pequenas do código funcionam bem sozinhas.
+- Teste de Integração: Checa se os módulos do sistema se comunicam corretamente.
+- Teste de Sistema: Testa o software completo para garantir que tudo funciona como esperado.
+- Teste de Aceitação: Confirma se o sistema atende às necessidades do usuário ou cliente.
+- Teste de Regressão: Garante que mudanças no código não criem novos problemas.
+- Teste Exploratório: O testador explora o sistema sem roteiro fixo para encontrar possíveis falhas.
+Se quiser mais exemplos ou entender melhor como aplicá-los, é só perguntar!
 
 
 Planejamento de testes (critérios de aceitação, planos e casos de teste)
 
+- Critérios de aceitação: Regras que definem se uma funcionalidade está funcionando corretamente.
+- Plano de teste: Documento que organiza como e o que será testado.
+- Casos de teste: Cenários práticos para verificar se o sistema funciona como esperado.
+
+
 
 Ferramentas de testes utilizadas durante o semestre (Colab, GitHub, etc.)
 
+Eu aprendi a como ver se uma aplicação tem suas funcionalidades sem taxas de erros e com qualidade utilizando Collab, IA para fazer busca por correções de codigos e dicas entre outras ferramentas (eu não lembro do nome da maioria sincerirade)
 
 Automação de testes e integração com CI/CD
 
+- Automação de testes: Usa ferramentas para testar o código automaticamente, tornando o processo mais rápido e preciso.
+- CI/CD: Automatiza a integração e entrega do software, garantindo lançamentos rápidos e seguros.
 
 Monitoramento e controle de qualidade (uso de métricas, rastreamento de bugs, observabilidade)
 
 
+- Métricas: Medem a qualidade do software, como taxa de erros e desempenho.
+- Rastreamento de bugs: Ferramentas registram e acompanham erros para garantir a correção.
+- Observabilidade: Ajuda a entender o comportamento do sistema por meio de logs e métricas.
+
+
+
 4. Ferramentas e Sites Utilizados
 Liste todos os sites e ferramentas que você usou durante o curso, por exemplo:
+
 https://reqres.in/
 
 
@@ -52,7 +76,7 @@ https://github.com/
 https://uptimerobot.com/
 
 
-(outros que desejar incluir)
+https://miro.com/pt/
 
 
 5. Explicação dos Testes Entregues
@@ -90,14 +114,18 @@ Arquivo: testes/teste_01.py
 
 6. Conclusão Final
 Escreva um parágrafo com sua reflexão pessoal, respondendo:
+
 O que você aprendeu de mais importante?
 
+-Foi analizar um codigo ou uma aplicação que tenha qualidade
 
 Como você enxerga a área de QA no seu futuro profissional?
 
+- bom é dificil explicar visto que eu tive um pouco de dificuldade
 
 Qual ferramenta ou tema mais chamou sua atenção e por quê?
 
+- foi uma ferramneta que usamos em ver os erros em um site da nasa lá (não lembro o nome)
 
 TESTE 01 TESTE DE REGRESSÃO
 
